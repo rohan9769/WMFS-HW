@@ -13,6 +13,7 @@
 - Change directory to api and install server dependencies , start the server :
   - `cd api` -> `npm i` or `npm install`
   -  start the server using `npm start`
+  - server will start running on port 6500 and you would see the message `API is working!`
 - Open a new terminal , change directory to client using `cd client` and load the UI using `npm start`
 - The app will start running on `localhost:3000`
 
